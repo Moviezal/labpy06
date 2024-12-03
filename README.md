@@ -1,8 +1,8 @@
-NAMA : INDAH WAFIKAH
+NAMA : Muhammad Hafizh Alfauzi
 
-NIM : 312410559
+NIM : 312410501
 
-MATA KULIAH : BAHASA PEMOGRAMAN
+MATA KULIAH : Bahasa Pemograman
 
 # Praktikum 6 - Pengelolaan Data Mahasiswa  
 
@@ -47,17 +47,17 @@ Pilih menu sesuai kebutuhan dan ikuti instruksi yang muncul.
 **`Menambahkan data`**
 
 ``` python
-Masukkan nama mahasiswa: AISAH
-Masukkan NIM mahasiswa: 240505
-Masukkan nilai mahasiswa: A
+Masukkan nama mahasiswa: Muhammad Hafizh Alfauzi
+Masukkan NIM mahasiswa: 312410501
+Masukkan nilai mahasiswa: 90
 ```
 **`menampilkan data`**
 
 ```python
 Data Mahasiswa:
-NIM             Nama                Nilai     
------------------------------------------------
-240505          AISAH                A         
+NIM             Nama                           Nilai     
+------------------------------------------------------
+312410501       Muhammad Hafizh Alfauzi        90         
 ```
 # Penjelasan kode
 
